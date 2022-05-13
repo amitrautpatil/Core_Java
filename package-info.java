@@ -1,1 +1,1 @@
-package first;
+package weekendAssessment;
